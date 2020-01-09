@@ -3,4 +3,4 @@ Repository for algorithms and data structures problems I have solved for interve
 
 ## 1. Maximum sum subarray problem:
     Compute the maximum sum subarray or array using Kadane's algorithm.
-    [maximum_sum_subarray.py](maximum_sum_subarray.py)
+    [maximum_sum_subarray.py](\maximum_sum_subarray.py)
