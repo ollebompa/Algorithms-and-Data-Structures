@@ -1,5 +1,3 @@
-import random
-
 def max_sum_subarray(array):
     """
     Compute the maximum sum subarray or array using Kadane's algorithm.
