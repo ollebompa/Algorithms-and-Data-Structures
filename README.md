@@ -13,3 +13,4 @@ Repository for algorithms and data structures problems I have solved for interve
 - Selection-sort: [selection_sort.py](/selection_sort.py)
 - Merge-sort: [merge_sort.py](/merge_sort.py)
 - Quick-sort: [quick_sort.py](/quick_sort.py)
+- Heap-sort: [heap_sort.py](/heap_sort.py)***Not my solution for heapify***
