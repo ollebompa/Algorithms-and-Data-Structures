@@ -8,4 +8,5 @@ Repository for algorithms and data structures problems I have solved for interve
 
 
 ## 2. Sorting Algorithms:
-- Bubble-sort:[bubble_sort.py](/bubble_sort.py)
+- Bubble-sort: [bubble_sort.py](/bubble_sort.py)
+- Insertion-sort: [insertion_sort.py](/insertion_sort.py)
