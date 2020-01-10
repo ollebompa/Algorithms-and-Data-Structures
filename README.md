@@ -14,3 +14,8 @@ Repository for algorithms and data structures problems I have solved for interve
 - Merge-sort: [merge_sort.py](/merge_sort.py)
 - Quick-sort: [quick_sort.py](/quick_sort.py)
 - Heap-sort: [heap_sort.py](/heap_sort.py)***Not my solution for heapify***
+
+
+
+## 3. Search Algorithms:
+- Binary Search: [binary_search.py](/binary_search.py)
