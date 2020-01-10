@@ -12,3 +12,4 @@ Repository for algorithms and data structures problems I have solved for interve
 - Insertion-sort: [insertion_sort.py](/insertion_sort.py)
 - Selection-sort: [selection_sort.py](/selection_sort.py)
 - Merge-sort: [merge_sort.py](/merge_sort.py)
+- Quick-sort: [quick_sort.py](/quick_sort.py)
