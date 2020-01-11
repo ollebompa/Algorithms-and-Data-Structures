@@ -20,3 +20,4 @@ Repository for algorithms and data structures problems I have solved for interve
 - Binary Search: [binary_search.py](/binary_search.py)
 - DFS for graphs : [depth_first_search_graph.py](/depth_first_search_graph.py)
 - BFS for graphs : [breath_first_search_graph.py](/breath_first_search_graph.py)
+- Binary Search Tree: [/binary_search_tree.py](/binary_search_tree.py)
