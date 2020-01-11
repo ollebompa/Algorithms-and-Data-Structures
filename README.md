@@ -20,4 +20,4 @@ Repository for algorithms and data structures problems I have solved for interve
 - Find element in array using binary search: [binary_search.py](/binary_search.py)
 - Traverse graph using DFS: [depth_first_search_graph.py](/depth_first_search_graph.py)
 - Traverse graph using BFS: [breath_first_search_graph.py](/breath_first_search_graph.py)
-- Implementation of binary search tree data structure: [/binary_search_tree.py](/binary_search_tree.py)
+- Implementation of binary search tree data structure: [binary_search_tree.py](/binary_search_tree.py)
