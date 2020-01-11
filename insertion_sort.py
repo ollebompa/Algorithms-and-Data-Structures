@@ -5,12 +5,9 @@ def insertion_sort(array):
     :return: sorted version of input array.
     """
     for i in range(1, len(array)):
-        j = i-1
-        element = array[i]
-        while j>= 0 and element < array[j]:
-            array[j+1] = array[j]
-            j-= 1
-        array[j+1] = element
+        while 0 <= j <= i-1:
+            if array[i] > array[j]:
+                array[i], array[j] = array[j], array[i]
     return array
 
 if __name__ == '__main__':

@@ -3,7 +3,6 @@ def quick_sort(array, low, high):
     """
     Sort array using quick-sort algorithm.
     :param array: 1D-array to be sorted.
-    :return: sorted version of input array.
     """
     if low < high:
         pivot_index = partition(array, low, high)

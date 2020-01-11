@@ -2,7 +2,6 @@ def merge_sort(array):
     """
     Sort array using merge-sort algorithm.
     :param array: 1D-array to be sorted.
-    :return: sorted version of input array.
     """
     if len(array) > 1:
         mid_index = len(array)//2
@@ -31,8 +30,6 @@ def merge_sort(array):
             array[overall_index] = right_subarray[right_index]
             right_index +=1
             overall_index +=1
-
-
 
 
 if __name__ == '__main__':

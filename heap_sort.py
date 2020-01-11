@@ -1,24 +1,35 @@
-def heapify(nums, heap_size, root_index):
+def heapify(array, heap_size, root_index):
+    """
+    To heapify subtree of the binary heap reperesentation of
+    a given array.
+    :param array: input array.
+    :param heap_size: size of subarray to be heapified.
+    :param root_index: index of root element of subtree to be heapified.
+    """
     largest = root_index
     left_child = (2 * root_index) + 1
     right_child = (2 * root_index) + 2
 
-    if left_child < heap_size and nums[left_child] > nums[largest]:
+    if left_child < heap_size and array[left_child] > array[largest]:
         largest = left_child
-    if right_child < heap_size and nums[right_child] > nums[largest]:
+    if right_child < heap_size and array[right_child] > array[largest]:
         largest = right_child
     if largest != root_index:
-        nums[root_index], nums[largest] = nums[largest], nums[root_index]
-        heapify(nums, heap_size, largest)
+        array[root_index], array[largest] = array[largest], array[root_index]
+        heapify(array, heap_size, largest)
 
 
-def heap_sort(nums):
-    n = len(nums)
+def heap_sort(array):
+    """
+    Sort array using heap-sort algorithm.
+    :param array: sorted 1D-array to be sorted.
+    """
+    n = len(array)
     for i in range(n, -1, -1):
-        heapify(nums, n, i)
+        heapify(array, n, i)
     for i in range(n - 1, 0, -1):
-        nums[i], nums[0] = nums[0], nums[i]
-        heapify(nums, i, 0)
+        array[i], array[0] = array[0], array[i]
+        heapify(array, i, 0)
 
 
 if __name__ == '__main__':
