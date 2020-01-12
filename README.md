@@ -6,10 +6,10 @@ Repository for algorithms and data structures problems I have solved for interve
    [maximum_sum_subarray.py](/maximum_sum_subarray.py)
    
 
-## 2. Conversion from infix to postfix algebraic notation problem:
-- Stack data structure implemenation: [stack.py](/Postfix_notation/blob/master/infix.py)
-- Shunting-yard algorithm: [infix.py](/Postfix_notation/infix.py)
-- Postfix evaluation algorithm: [postfix.py](/Postfix_notation/infix.py)
+## 2. [Conversion from infix to postfix algebraic notation problem](https://github.com/ollenilsson19/Postfix_notation/blob/master):
+- Stack data structure implemenation: [stack.py](https://github.com/ollenilsson19/Postfix_notation/blob/master/stack.py)
+- Shunting-yard algorithm: [infix.py](https://github.com/ollenilsson19/Postfix_notation/blob/master/infix.py)
+- Postfix evaluation algorithm: [postfix.py](https://github.com/ollenilsson19/Postfix_notation/blob/master/infix.py/postfix.py)
 
 ## 3. Sorting Algorithms:
 - Sort array using bubble-sort: [bubble_sort.py](/bubble_sort.py)
