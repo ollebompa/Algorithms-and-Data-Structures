@@ -9,7 +9,7 @@ Repository for algorithms and data structures problems I have solved for interve
 ## 2. [Conversion from infix to postfix algebraic notation problem](https://github.com/ollenilsson19/Postfix_notation):
 - Stack data structure implemenation: [stack.py](https://github.com/ollenilsson19/Postfix_notation/blob/master/stack.py)
 - Shunting-yard algorithm: [infix.py](https://github.com/ollenilsson19/Postfix_notation/blob/master/infix.py)
-- Postfix evaluation algorithm: [postfix.py](https://github.com/ollenilsson19/Postfix_notation/blob/master/infix.py/postfix.py)
+- Postfix evaluation algorithm: [postfix.py](https://github.com/ollenilsson19/Postfix_notation/blob/master/postfix.py)
 
 ## 3. Sorting Algorithms:
 - Sort array using bubble-sort: [bubble_sort.py](/bubble_sort.py)
