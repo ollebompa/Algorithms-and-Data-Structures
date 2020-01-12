@@ -7,7 +7,7 @@ Repository for algorithms and data structures problems I have solved for interve
    
 
 ## 2. Conversion from infix to postfix algebraic notation problem:
-- Stack data structure implemenation: [stack.py](/Postfix_notation/stack.py)
+- Stack data structure implemenation: [stack.py](/Postfix_notation/blob/master/infix.py)
 - Shunting-yard algorithm: [infix.py](/Postfix_notation/infix.py)
 - Postfix evaluation algorithm: [postfix.py](/Postfix_notation/infix.py)
 
